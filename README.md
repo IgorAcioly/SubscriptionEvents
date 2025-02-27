@@ -1,5 +1,5 @@
 # SubscriptionEvents
-Implementação de  um sistema de indicações com ranking dos usuários que mais convidaram pessoas para o evento.
+Implementação de  um sistema de inscrição de eventos, com ranking dos usuários que mais convidaram pessoas.
 
 - Desenvolvimento de aplicação back-end Java com Maven utilizando SpringBoot e API Rest.
 
